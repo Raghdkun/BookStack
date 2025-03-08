@@ -8,12 +8,12 @@ Homestead.yaml
 .idea
 npm-debug.log
 yarn-error.log
-/public/dist/*.map
-/public/plugins
-/public/css/*.map
-/public/js/*.map
+# /public/dist/*.map
+# /public/plugins
+# /public/css/*.map
+# /public/js/*.map
 /public/bower
-/public/build/
+# /public/build/
 /public/favicon.ico
 /storage/images
 _ide_helper.php
